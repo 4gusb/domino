@@ -27,7 +27,7 @@ while(a != 0 or b != 0):
     fichaDos.append(c)
     fichaDos.append(d)
 
-    # Comparacion
+    # Comparacion entre fichas
 
     for i in(fichaUno):
         if i in fichaDos:
